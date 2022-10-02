@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: "/gitogram-vue/dist/",
+  publicPath: "/gitogram-vue/",
 };
