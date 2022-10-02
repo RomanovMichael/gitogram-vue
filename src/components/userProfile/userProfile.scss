@@ -1,0 +1,36 @@
+.profile-title {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 16px;
+  cursor: pointer;
+}
+
+.icon {
+  margin-right: 14px;
+}
+
+.profile-name {
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.reviews {
+  margin-bottom: 10px;
+  margin-top: 18px;
+}
+.comments-item{
+  margin-bottom: 6px;
+}
+.date {
+  font-size: 12px;
+  color: #00000066;
+  opacity: 0.4;
+}
+
+.user__post-container {
+  min-height: 173px;
+  background: #fff;
+  box-shadow: 0px 4px 40px 0px #00000012;
+  border-radius: 10px;
+  padding: 24px 20px;
+}

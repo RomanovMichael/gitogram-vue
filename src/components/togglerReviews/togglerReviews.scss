@@ -1,0 +1,23 @@
+.icon-toggler {
+  width: 10px;
+  height: 5.5px;
+  transform: rotate(180deg);
+  color: black;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+
+  &.active {
+    .icon-toggler {
+      transform: rotate(0deg);
+    }
+  }
+}
+
+.text {
+  margin-right: 5px;
+  font-weight: 500;
+}

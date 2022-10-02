@@ -1,0 +1,6 @@
+export { default as homeHeader } from './homeHeader.vue'
+export { default as exitHeader } from './exitHeader.vue'
+export { default as reviewsToggler } from './reviewsToggler.vue'
+export { default as avatarMin } from './avatarMin.vue'
+export { default as ratingsStar } from './ratingsStar.vue'
+export { default as ratingsFork } from './ratingsFork'
